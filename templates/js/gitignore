@@ -28,3 +28,12 @@ node_modules
 
 # Debug log from npm
 npm-debug.log
+
+# Nodemon's ignore list
+.nodemonignore
+
+# Mac Stuff
+.DS_Store
+
+# Intellij Idea
+.idea/
